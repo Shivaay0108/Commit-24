@@ -1,4 +1,6 @@
 # Commit-24
-off
-ffg
-ffg
+guild base
+base Guild Role
+...
+base Guild
+...
